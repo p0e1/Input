@@ -10,7 +10,7 @@ local keywords = {
 		"game", "workspace", "script", "math", "string", "table", "task", "wait", "select", "next", "Enum",
 		"tick", "assert", "shared", "loadstring", "tonumber", "tostring", "type",
 		"typeof", "unpack", "Instance", "CFrame", "Vector3", "Vector2", "Color3", "UDim", "UDim2", "Ray", "BrickColor",
-		"OverlapParams", "RaycastParams", "Axes", "Random", "Region3", "Rect", "TweenInfo", "GetService",
+		"OverlapParams", "RaycastParams", "Axes", "Random", "Region3", "Rect", "TweenInfo",
 		"collectgarbage", "not", "utf8", "pcall", "xpcall", "_G", "setmetatable", "getmetatable", "os", "pairs", "ipairs"
 	},
 	operators = {
